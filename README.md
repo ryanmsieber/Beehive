@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>Beehive Storage</title>
+    <h1>Beehive Storage</h1>
     <img src="beehive storage logo.png" width="20" height="20" alt="Beehive Storage">
 </head>
 <body>
