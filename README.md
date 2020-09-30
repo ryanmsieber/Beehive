@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en-US"></html>
+
+<html lang="en-US">
 <head>
     <title>Beehive Storage</title>
     <img src="beehive storage logo.png" width="20" height="20" alt="Beehive Storage">
 </head>
+
 <body>
-    <div id="container">
     <div style="background-color:white;padding:20px;"></div>
     <h1 style="color:black; font-size:60px;">Low Discounted Rates!</h1>
     </div>
