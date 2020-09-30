@@ -4,6 +4,7 @@
     <img src="beehive storage logo.png" width="20" height="20" alt="Beehive Storage">
 </head>
 <body>
+    <div class="container bg-primary text-white py-4">
     <div style="background-color:white;padding:20px;"></div>
     <h1 style="color:black; font-size:60px;">Low Discounted Rates!</h1>
     </div>
