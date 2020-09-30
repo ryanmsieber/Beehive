@@ -5,7 +5,7 @@
 </head>
 <body>
     <div style="background-color:white;padding:20px;"></div>
-    <h1 style="color:pink; font-size:60px;">Low Discounted Rates!</h1>
+    <h1 style="color:black; font-size:60px;">Low Discounted Rates!</h1>
     </div>
     <div style="background-color:white;padding:20px;">
     <h1 style="color:black; font-size:60px;">Convienent Locations!</h1>
